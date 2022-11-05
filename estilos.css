@@ -1,0 +1,41 @@
+
+body{
+    background-color: rgb(83, 112, 141);
+    background-image: url(https://th.bing.com/th/id/OIP.S5M2deoHPUn7MQVKDI5srwHaEC?w=308&h=180&c=7&r=0&o=5&pid=1.7)
+}
+.img{
+    width: 30%;
+    height: 70%;
+    border: 10px solid rgb(245, 187, 187);
+}
+
+h3{
+    background-color: rgb(104, 158, 158);
+    color: rgb(221, 235, 228);
+    padding: 10px;
+    text-align: center;
+}
+
+.imgM{
+    width: 30%;
+    height: 70%;
+    border: 10px solid rgb(160, 137, 184)
+}
+.parrafo{
+    color: rgb(202, 170, 231);
+   background-color: rgb(224, 230, 212);
+}
+
+h2{
+    background-color: rgb(228, 194, 153);
+    caret-color: rgb(187, 183, 183);
+    padding: 10px;
+    text-align: center;
+}
+li{
+    background-color: rgb(99, 92, 87);
+    color: rgb(196, 226, 166);
+    padding: 10px;
+    text-align: center;
+}
+
